@@ -1,0 +1,22 @@
+.form{
+    margin: auto auto;
+    text-align: center;
+}
+.button{
+    margin-left: 5px;
+}
+.button1{
+    width: 25px;
+    height: 25px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    border: #DCDCDC 1px solid;
+}
+.div{
+    display: inline-block;
+    margin-left: 5px;
+}

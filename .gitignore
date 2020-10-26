@@ -1,0 +1,4 @@
+// .gitignoreÎÄ¼ş
+
+node_modules/
+dist/

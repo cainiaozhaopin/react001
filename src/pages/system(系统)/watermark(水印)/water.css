@@ -1,0 +1,16 @@
+
+.wa{
+    background-color: #fff;
+    height: 100%;
+    padding:3% 5%;
+}
+.imgs{
+    /* padding: 10%; */
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+.avatar-uploader > .ant-upload { display: block;
+    width: 128px;
+    height: 128px;
+  }

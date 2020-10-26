@@ -1,0 +1,26 @@
+.smallButton{
+    width: 25px;
+    height: 25px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+}
+.button{
+    width: 110px;
+    height: 30px;
+    background-color: #ff5722;
+    border: transparent;
+}
+
+.tan{
+    margin-left: 5px;
+}
+.table{
+    width: 90%;
+    margin: 5px auto;
+}
+.box{
+    width: 90%;
+    margin: 15px auto ;
+}
